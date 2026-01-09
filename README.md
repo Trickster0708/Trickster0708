@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a computer science engineering student<br>👯 I’m looking to collaborate on any interesting projects<br>🌱 I’m currently learning DSA in C++ and ML<br>
+🔭 I’m a computer science engineering student<br>👯 I’m looking to collaborate on any interesting project<br>🌱 I’m currently learning DSA in C++ and ML<br>
 
 
 ## 🌐 Socials:
